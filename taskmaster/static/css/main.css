@@ -1,0 +1,54 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(252, 241, 227);
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 70%;
+}
+
+table, td, th {
+    border: 1px solid #000;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 0 auto;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    margin: 20px auto;
+    width: 70%;
+}
+
+#content {
+    width: 80%;
+}
+
+.button {
+    background-color: #000;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: .5rem 1rem;
+}
